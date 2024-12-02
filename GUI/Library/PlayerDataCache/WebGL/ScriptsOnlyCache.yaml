@@ -149,18 +149,9 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
   - assembly: Assembly-CSharp
     fullTypeName: Quit
     methodName: ExitToDesktop
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -220,35 +211,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16638}
+      Script: {instanceID: 1574}
     - Class: 114
-      Script: {instanceID: 17634}
+      Script: {instanceID: 2570}
     - Class: 114
-      Script: {instanceID: 17836}
+      Script: {instanceID: 2772}
     - Class: 114
-      Script: {instanceID: 17884}
+      Script: {instanceID: 2820}
     - Class: 114
-      Script: {instanceID: 18124}
+      Script: {instanceID: 3060}
     - Class: 114
-      Script: {instanceID: 18692}
+      Script: {instanceID: 3628}
     - Class: 114
-      Script: {instanceID: 18868}
+      Script: {instanceID: 3804}
     - Class: 114
-      Script: {instanceID: 19914}
+      Script: {instanceID: 4850}
     - Class: 114
-      Script: {instanceID: 19962}
+      Script: {instanceID: 4898}
     - Class: 114
-      Script: {instanceID: 20276}
+      Script: {instanceID: 5212}
     - Class: 114
-      Script: {instanceID: 20576}
+      Script: {instanceID: 5512}
     - Class: 114
-      Script: {instanceID: 21038}
+      Script: {instanceID: 5974}
     - Class: 114
-      Script: {instanceID: 21046}
+      Script: {instanceID: 5982}
     - Class: 114
-      Script: {instanceID: 21792}
+      Script: {instanceID: 6728}
     - Class: 114
-      Script: {instanceID: 22072}
+      Script: {instanceID: 7008}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1097,4 +1088,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: F:/Tafe Semester 2/GUI/AT2/Graphical User Interface Prototype WEB
+  playerPath: C:/Users/30095350/Documents/GitHub/GUI/GUI/Builds
