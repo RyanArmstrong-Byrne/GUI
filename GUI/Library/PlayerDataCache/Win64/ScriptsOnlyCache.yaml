@@ -211,35 +211,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1574}
+      Script: {instanceID: 16638}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 17634}
     - Class: 114
-      Script: {instanceID: 2772}
+      Script: {instanceID: 17836}
     - Class: 114
-      Script: {instanceID: 2820}
+      Script: {instanceID: 17884}
     - Class: 114
-      Script: {instanceID: 3060}
+      Script: {instanceID: 18124}
     - Class: 114
-      Script: {instanceID: 3628}
+      Script: {instanceID: 18692}
     - Class: 114
-      Script: {instanceID: 3804}
+      Script: {instanceID: 18868}
     - Class: 114
-      Script: {instanceID: 4850}
+      Script: {instanceID: 19914}
     - Class: 114
-      Script: {instanceID: 4898}
+      Script: {instanceID: 19962}
     - Class: 114
-      Script: {instanceID: 5212}
+      Script: {instanceID: 20276}
     - Class: 114
-      Script: {instanceID: 5512}
+      Script: {instanceID: 20576}
     - Class: 114
-      Script: {instanceID: 5974}
+      Script: {instanceID: 21038}
     - Class: 114
-      Script: {instanceID: 5982}
+      Script: {instanceID: 21046}
     - Class: 114
-      Script: {instanceID: 6728}
+      Script: {instanceID: 21792}
     - Class: 114
-      Script: {instanceID: 7008}
+      Script: {instanceID: 22072}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1088,4 +1088,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/30095350/Documents/GitHub/GUI/GUI/Builds/newBuild/GUI.exe
+  playerPath: C:/Users/30095350/Documents/Github/GUI/GUI/Builds/newBuild/Graphical
+    User Interface V3/GUI.exe
